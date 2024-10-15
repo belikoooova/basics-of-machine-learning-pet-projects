@@ -1,4 +1,4 @@
-# basics-of-ml-pet-projects
+# basics-of-machine-learning-projects
 
 ## В репозитории представлены мини-исследования/проекты по машинному обучению
 
